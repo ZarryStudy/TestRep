@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55ecc168-6fac-4c23-8aba-e385eaefd17d": {
+      "ProjectGuid": "55ecc168-6fac-4c23-8aba-e385eaefd17d",
+      "DisplayName": "SlavaWorkz",
+      "ColorIndex": 0
+    },
+    "6c9118c3-621c-4c90-ba32-1fa60985605f": {
+      "ProjectGuid": "6c9118c3-621c-4c90-ba32-1fa60985605f",
+      "DisplayName": "Unit",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

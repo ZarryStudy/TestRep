@@ -1,0 +1,28 @@
+﻿<Window x:Class="SlavaWorkz.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SlavaWorkz"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" x:Name="TbFirstName"/>
+        <TextBox Grid.Row="1" x:Name="TbSecondName"/>
+        <TextBox Grid.Row="2" x:Name="TbTelNumber"/>
+        <Button Grid.Row ="3" x:Name="BtnValid" Content="Click it" Click="BtnValid_Click"/>
+        <Label Grid.Row="4"  x:Name="Lb" Content="Пока всё ок"/>
+    </Grid>
+</Window>

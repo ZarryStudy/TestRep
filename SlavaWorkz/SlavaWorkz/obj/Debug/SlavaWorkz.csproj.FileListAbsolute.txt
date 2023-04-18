@@ -1,0 +1,16 @@
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\bin\Debug\SlavaWorkz.exe.config
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\bin\Debug\SlavaWorkz.exe
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\bin\Debug\SlavaWorkz.pdb
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\SlavaWorkz.csproj.SuggestedBindingRedirects.cache
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\MainWindow.g.cs
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\App.g.cs
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\SlavaWorkz_MarkupCompile.cache
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\SlavaWorkz_MarkupCompile.lref
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\MainWindow.baml
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\SlavaWorkz.g.resources
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\SlavaWorkz.Properties.Resources.resources
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\SlavaWorkz.csproj.GenerateResource.cache
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\SlavaWorkz.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\SlavaWorkz.exe
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\SlavaWorkz.pdb
+C:\Users\nazar\source\repos\SlavaWorkz\SlavaWorkz\obj\Debug\SlavaWorkz.csproj.AssemblyReference.cache
